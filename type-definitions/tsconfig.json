@@ -7,8 +7,9 @@
     "noImplicitThis": true,
     "strictNullChecks": true,
     "strictFunctionTypes": true,
-    "lib": ["es2015"],
-    "types": []
+    "lib": ["es2015", "dom"],
+    "types": [],
+    "rootDir": "./",
   },
   "files": ["immutable.d.ts"]
 }
